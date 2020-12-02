@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 25px;
+
+}
+.section-one {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.first-square {
+    height: 100px;
+    width: 50px;
+    background-color: rgb(190, 44, 235);
+    margin: 0 50px;
+    display: inline-block
+
+}
+.second-square {
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    background-color: green;
+    margin: 0 50px;
+}
+
+.circle {
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block
+}
+
+.section-two {
+    border: dotted black;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 25px;
+    padding: 50px;
+}
+
+.box-shadow {
+    width: 100%;
+    height: 200px;
+    background-color: lemonchiffon;
+    box-shadow: 3px 3px 5px black;
+}
+
+.section-three {
+    height: 25vh;
+    width: 50%;
+    border: solid lightblue;
+    margin: 25%;
+    margin-top: 5%;
+    box-shadow: 3px 3px 5px lightblue
+
+}
+
+.section-three h1 {
+    margin-top: 8%;
+    text-align: center;
+    width: 100%;
+    color: darkblue;
+    letter-spacing: 10px;
+}
